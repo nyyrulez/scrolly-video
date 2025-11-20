@@ -4,7 +4,7 @@ import ScrollyVideo from 'scrolly-video/dist/ScrollyVideo.vue';
 
 <template>
 <div class="scrolly-video-container">
-  <ScrollyVideo src="https://scrollyvideo.js.org/goldengate.mp4" />
+  <ScrollyVideo src="public/test.mp4"" />
 </div>
 </template>
 
