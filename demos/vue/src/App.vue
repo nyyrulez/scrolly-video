@@ -4,7 +4,7 @@ import ScrollyVideo from 'scrolly-video/dist/ScrollyVideo.vue';
 
 <template>
 <div class="scrolly-video-container">
-  <ScrollyVideo src="https://vue-scroll.onrender.com/videos/train.mp4" />
+  <ScrollyVideo src="https://scrolly-video.onrender.com/videos/train.mp4" />
 </div>
 </template>
 
